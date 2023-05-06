@@ -82,8 +82,16 @@ setelah itu kita buat secret JWT nya dengan ketikan perintah di terminal
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
-<!-- USAGE EXAMPLES -->
+<!-- USAGE -->
 ## Usage
+
+setelah proses di atas selesai ketikan perintah berikut di terminal
+```bash
+  cd ..
+```
+```bash
+  code .
+```
 
 Setelah proses installasi dan migration selesai. jalankan server dengan perintah berikut
  
