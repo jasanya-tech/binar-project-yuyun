@@ -62,7 +62,7 @@ Install Packages
 ## Installation Backend
 Setelah proses installasi package frontend selesai, buka kembali terminal lalu masuk ke folder server
 ```bash
-  cd server
+  cd ../server
 ```
 
 setelah itu install package yang dibutuhkan backend dengan cara mengetikan perintah berikut di terminal
