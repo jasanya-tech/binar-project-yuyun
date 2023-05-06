@@ -98,7 +98,7 @@ Buka visual studio code dengan cara ketik di terminal
 Setelah masuk vscode buka 2 terminal sebagai berikut
 ![Screenshot (1)](https://user-images.githubusercontent.com/79908759/236600289-920950ed-07af-4683-b0fb-320ed742cefa.png)
 
-jalankan dengan perintah berikut pada terminal 1
+kemudian jalankan perintah berikut pada terminal 1
 ```bash
   cd server
 ```
