@@ -36,10 +36,15 @@ dibuat dengan
 
 ## Installation Frontend
 
-Clone Repository
+Clone Repository using git bash
 
 ```bash
   git clone https://github.com/jasanya-tech/binar-project-yuyun.git
+```
+
+Masuk Kedalam Derektori Repo
+```bash
+  cd binar-project-yuyun
 ```
 
 Masuk Direktori Folder Client
