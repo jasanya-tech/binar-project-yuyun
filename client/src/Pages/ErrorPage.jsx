@@ -1,0 +1,13 @@
+import React from 'react'
+import './errorpage.scss'
+
+const ErrorPage = () => {
+  return (
+    <div className='error'>
+        <h1>Sorry, you wrote the wrong keyword</h1>
+        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Officiis esse necessitatibus ducimus alias. Velit ipsum magni beatae, assumenda libero rerum odio soluta porro sit repellendus consequuntur illum doloribus corrupti. Consectetur accusantium perspiciatis, asperiores pariatur minus quasi eos vel nisi aut totam facilis esse nihil sunt facere temporibus commodi tenetur saepe incidunt porro excepturi! Quaerat modi aut ratione blanditiis, officia harum consequuntur velit accusantium voluptatem totam? Sequi ad, obcaecati possimus doloremque aliquid enim adipisci cupiditate, quibusdam aperiam amet eos tempora hic ipsam nostrum doloribus quos ab architecto reiciendis est vero itaque expedita ipsum, alias quisquam. Neque asperiores, sed odio impedit nostrum incidunt iure libero reprehenderit soluta, accusantium iusto nulla quas ea et aspernatur! Dolorem ea sequi aperiam dignissimos, debitis nisi voluptates fugiat repellat veniam perferendis sed ducimus, labore quod cumque non commodi eligendi explicabo omnis doloribus quae. Facere amet voluptate commodi, repellat impedit ipsam aperiam earum nemo, aliquam dignissimos voluptatem modi officia quam ducimus vitae illo nisi deleniti nulla. Nisi nesciunt dolorum, ipsam, repudiandae accusantium unde tempora sit accusamus vitae deleniti quidem ex aliquid in aliquam animi eaque eveniet velit magni voluptate beatae iusto! Fugit delectus dolores et quasi, architecto praesentium dolore at expedita officia ea, sequi soluta aliquid atque ducimus sapiente! Cumque, illo laborum odit ea voluptatem neque commodi omnis vero corrupti fuga saepe ipsa modi quibusdam iusto quae soluta nam itaque deleniti sit, eligendi odio tempore repudiandae. Quod officiis facere error earum sunt illo provident, molestias explicabo deleniti voluptas aliquam vero corporis nemo, itaque, ab necessitatibus accusantium. Mollitia itaque adipisci nemo nisi quae magnam qui numquam dolores temporibus aspernatur praesentium, dolorem porro ea amet odit eum voluptates recusandae facilis architecto quaerat similique illo fuga ullam dignissimos? Nihil nostrum at architecto explicabo fuga ipsa numquam cumque aliquid dolores optio nulla eaque officia delectus, ut tempora rem quod? Ullam, reprehenderit corrupti.</p>
+    </div>
+  )
+}
+
+export default ErrorPage

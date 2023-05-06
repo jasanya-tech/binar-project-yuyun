@@ -1,0 +1,10 @@
+/* Setting ulang halaman website */
+
+*{
+  margin: 0;
+  font-family: 'Roboto', sans-serif;
+}
+
+body{
+  background-color: var(--color1);
+}

@@ -1,0 +1,53 @@
+.register{
+    margin: 6rem 4rem;
+    display: flex;
+    justify-content: center;
+}
+
+.register .register_form {
+	display: flex;
+	justify-content: center;
+	width: 100%;
+}
+
+.register_form h1{
+	font-size: 2rem;
+	color: white;
+	margin-bottom: 1rem;
+	text-align: center;
+}
+
+.register_form form{
+	width: 50%;
+}
+
+.input_box label{
+	display: block;
+	color: white;
+	margin-bottom: 1rem;
+}
+
+.input_box{
+	margin-bottom: 1rem;
+}
+
+.input_box input{
+	padding: 0.5rem 0;
+    padding-right: 3rem;
+    padding-left: 1rem;
+    border: 1px solid white;
+    background-color: transparent;
+    border-radius: 1rem;
+    color: white;
+    width: 80%;
+}
+
+.input_box input::placeholder{
+    color: white;
+}
+
+.register_form button{
+	padding: 0.5rem 1rem;
+	color: #23272F;
+	font-size: 1rem;
+}

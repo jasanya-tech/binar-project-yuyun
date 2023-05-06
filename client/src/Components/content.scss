@@ -1,0 +1,69 @@
+.content{
+    margin: 2rem 2rem;
+    color: white;
+    .popular{
+        display: flex;
+        flex-direction: column;
+
+        .popular__title{
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+        }
+
+        .see__popular{
+            display: flex;
+            align-items: center;
+            color: white;
+        }
+
+        .popular__movie{
+            margin-bottom: 2rem;
+        }
+        
+    }
+
+    .topRated{
+        display: flex;
+        flex-direction: column;
+
+        .top__title{
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+        }
+
+        .see__top{
+            display: flex;
+            align-items: center;
+            color: white;
+        }
+
+        .top__movie{
+            margin-bottom: 2rem;
+        }
+        
+    }
+
+    .upcoming{
+        display: flex;
+        flex-direction: column;
+
+        .upcoming__title{
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+        }
+
+        .see__upcoming{
+            display: flex;
+            align-items: center;
+            color: white;
+        }
+
+        .upcoming__movie{
+            margin-bottom: 2rem;
+        }
+        
+    }
+}
