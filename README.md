@@ -85,16 +85,6 @@ setelah itu kita buat secret JWT nya dengan ketikan perintah di terminal
 <!-- USAGE -->
 ## Usage
 
-setelah proses di atas selesai ketikan perintah berikut di terminal
-```bash
-  cd ..
-```
-
-Buka visual studio code dengan cara ketik di terminal
-```bash
-  code .
-```
-
 Setelah masuk vscode buka 2 terminal sebagai berikut
 ![Screenshot (1)](https://user-images.githubusercontent.com/79908759/236600289-920950ed-07af-4683-b0fb-320ed742cefa.png)
 
@@ -109,7 +99,7 @@ Kemudian jalankan server Laravel
 
 Selanjutnya jalankan perintah berikut pada terminal 2
 ```bash
-  cd clinet
+  cd client
 ```
 Kemudian jalankan react js nya
 ```bash
